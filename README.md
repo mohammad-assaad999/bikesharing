@@ -30,6 +30,19 @@ As we said before, the majority of the users are male. In addition the best timi
 ### User Trips by Gender by Weekday
 
 ![image](https://user-images.githubusercontent.com/80184581/127949348-113e5a74-c2bb-4adc-96cc-45c1a594c6e1.png)
-
 If we look at the chart above, we can see that the male subscribers have the vast majority in ussing the bikes, and their best timing to bike is from Monday to Friday. 
 
+### Average Trip Duratin 
+
+![image](https://user-images.githubusercontent.com/80184581/127950069-60e789e6-6fc3-4e9e-94e3-33a36d83ecf1.png)
+
+In general, the relationship between birth year and trip length, according to the data, is that the later the birth year, the longer the ride duration. 
+
+### Gender Breakdown
+
+![image](https://user-images.githubusercontent.com/80184581/127950362-1ded5d3a-f9b8-4727-945f-6c6d23326e2d.png)
+
+Finally, as we said before, the male users are taking the majority of using the bikes furing the week. According to the above Pie chart, the male users are almos 80% of the total users. 
+
+## Summary
+In brief, we can say that the male subscribers are the most biking users who mostly bike between 6 am till 9 am and between 4 pm till 8 pm from Monday to Friday for a period of 10 to 20 minutes. To finalize the summary, talking about the stoptime and startime charts and graphs is also very important because they give us an idea of where the bikes stops should be. 
