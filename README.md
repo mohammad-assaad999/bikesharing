@@ -46,3 +46,5 @@ Finally, as we said before, the male users are taking the majority of using the 
 
 ## Summary
 In brief, we can say that the male subscribers are the most biking users who mostly bike between 6 am till 9 am and between 4 pm till 8 pm from Monday to Friday for a period of 10 to 20 minutes. To finalize the summary, talking about the stoptime and startime charts and graphs is also very important because they give us an idea of where the bikes stops should be. 
+
+[link to dashboard](https://public.tableau.com/app/profile/mohammad.assaad/viz/FinalPresentationStory_16280048206850/FinalPresentationStory?publish=yes) 
